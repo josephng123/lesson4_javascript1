@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 13, 2017
 
 ### Student Name:  
-(First and Last Name)
+Joseph Ng
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project, the fundamentals of Javascript and how different commands labels functions were demonstrated.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://github.com/josephng123/lesson4_javascript1
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Labeling and identifying distinct variables is essential in organizing code.
+2. It is crucial to be sure that each part of the code is spelled correctly, as everything is case sensitive.
+3. Javascript is a foundation which interactive web content can exist on a web page.
 
